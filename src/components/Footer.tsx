@@ -96,13 +96,13 @@ export default function Footer() {
               <div className="flex items-start gap-3 text-cream/80">
                 <Phone className="w-4 h-4 mt-0.5 flex-shrink-0 text-gold" />
                 <div>
-                  <p>(555) 123-4567</p>
+                  <p>+92 318 240 2564</p>
                   <p className="text-xs text-cream/50">reservations & orders</p>
                 </div>
               </div>
               <div className="flex items-start gap-3 text-cream/80">
                 <Mail className="w-4 h-4 mt-0.5 flex-shrink-0 text-gold" />
-                <p>ciao@olivetta.nyc</p>
+                <p>hashirshah8990@gmail.com</p>
               </div>
             </div>
           </div>

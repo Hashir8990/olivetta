@@ -74,7 +74,7 @@ export default function Nav({ onOpenCart }: NavProps) {
 
         <div className="flex items-center gap-3">
           <a
-            href="tel:+15551234567"
+            href="tel:+923182402564"
             className={classNames(
               "hidden md:flex items-center gap-2 px-4 py-2 text-sm font-medium transition-colors",
               scrolled
@@ -83,7 +83,7 @@ export default function Nav({ onOpenCart }: NavProps) {
             )}
           >
             <Phone className="w-4 h-4" />
-            (555) 123-4567
+            +92 318 240 2564
           </a>
           <button
             onClick={onOpenCart}
