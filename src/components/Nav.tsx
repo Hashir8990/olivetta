@@ -129,7 +129,7 @@ export default function Nav({ onOpenCart }: NavProps) {
               href="tel:+15551234567"
               className="py-3 text-charcoal font-medium tracking-wide uppercase text-sm hover:text-terracotta transition-colors flex items-center gap-2"
             >
-              <Phone className="w-4 h-4" /> (555) 123-4567
+              <Phone className="w-4 h-4" /> +92 318 240 2564
             </a>
           </nav>
         </div>
